@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+
+Research_Report.pdf
+
+*.pyc
