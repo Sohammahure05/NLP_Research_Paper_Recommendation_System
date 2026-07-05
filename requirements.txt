@@ -1,0 +1,13 @@
+faiss-cpu
+sentence-transformers
+transformers
+torch
+spacy
+keybert
+wordcloud
+matplotlib
+reportlab
+rich
+numpy
+pandas
+scikit-learn
